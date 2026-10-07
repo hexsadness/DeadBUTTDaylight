@@ -1,0 +1,5 @@
+opencv-python
+mss
+numpy
+pytesseract
+buttplug
